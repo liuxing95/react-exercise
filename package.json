@@ -32,7 +32,11 @@
   "dependencies": {
     "@antv/g2": "^3.3.3",
     "axios": "^0.18.0",
+    "lodash-es": "^4.17.15",
+    "lodash-move": "^1.1.1",
     "qs": "^6.6.0",
+    "react-spring": "^8.0.27",
+    "react-use-gesture": "^7.0.16",
     "roadhog-api-doc": "^1.1.2"
   }
 }
