@@ -29,6 +29,18 @@ const jsonData = {
         {
           'name': 'view-pager',
           'path': '/react-spring/view-pager',
+        },
+        {
+          'name': 'interpolate',
+          'path': '/react-spring/interpolate',
+        },
+        {
+          'name': 'goo-trails',
+          'path': '/react-spring/goo-trails',
+        },
+        {
+          'name': 'trails',
+          'path': '/react-spring/trails',
         }
       ],
     },
