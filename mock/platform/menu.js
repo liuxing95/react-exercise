@@ -41,6 +41,14 @@ const jsonData = {
         {
           'name': 'trails',
           'path': '/react-spring/trails',
+        },
+        {
+          'name': 'transition',
+          'path': '/react-spring/transition',
+        },
+        {
+          'name': 'transition-image-fade',
+          'path': '/react-spring/transition-image-fade',
         }
       ],
     },
