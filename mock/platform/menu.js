@@ -53,6 +53,14 @@ const jsonData = {
         {
           'name': 'chain-animation',
           'path': '/react-spring/chain-animation',
+        },
+        {
+          'name': 'fetch-with-spring',
+          'path': '/react-spring/fetch-with-spring',
+        },
+        {
+          'name': 'spring-with-gesture',
+          'path': '/react-spring/spring-with-gesture',
         }
       ],
     },
