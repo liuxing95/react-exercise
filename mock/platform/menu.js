@@ -49,6 +49,10 @@ const jsonData = {
         {
           'name': 'transition-image-fade',
           'path': '/react-spring/transition-image-fade',
+        },
+        {
+          'name': 'chain-animation',
+          'path': '/react-spring/chain-animation',
         }
       ],
     },
